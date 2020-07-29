@@ -1,7 +1,7 @@
 #Data Science Skills 
 materials adapted from UC Berkeley 
 Data 8 Public Materials for Spring 2020
-This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Spring 2020 semester.
+This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Spring 2020 semester. The materials have been adapted for use in the Data Science Skills course, CMSC 330, at VCU.
 
 This includes: homeworks, labs, and notebooks used in lecture.
 
